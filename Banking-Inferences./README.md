@@ -6,7 +6,8 @@
 ### Learnings from the project
 
  
-**- Confidence Interval
+**
+- Confidence Interval
 - Central Limit Theorem
 - Hypothesis Testing
 - Chi Square Test**
